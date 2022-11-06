@@ -32,11 +32,8 @@ My first experience with building my own API! I learned a lot about using Expres
 Take a look at these apps I've created using public APIs:
 
 - [San Jose Solar Seekers Picture of the Day](https://github.com/nicoledicochea/nasa-picture-of-the-day)
-
 - [The Best Advice No One Told You](https://github.com/nicoledicochea/advice-bot)
-
 - [Picturesque](https://github.com/nicoledicochea/picturesque-pixabay-api)
-
 - [So It Prose...](https://github.com/nicoledicochea/poetry-api)
 
 
